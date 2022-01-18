@@ -108,7 +108,7 @@ indicates that the label is "1" and the sequence "1 1 1 1 3".
 
 ## Output
 The output result file shows the adjusted significance level d in the first line.
-Each line shows the length, p-value, f-value, total support, support in positive labels, support in negative labels, and which support is more for the pattern.
+Each line shows the length, p-value, f-value, total support, support in positive labels, support in negative labels, and which support is more for the extracted significant pattern.
 
 >pattern(d = 0.0138141),length,p,f,supportSum,sup+,sup-,+ or -
 >2 2 3,3,1.54171e-07,7.70857e-08,16,0,16,-
