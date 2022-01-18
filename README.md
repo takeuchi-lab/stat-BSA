@@ -25,7 +25,7 @@ Download ([boost libraries](https://www.boost.org/)) and put following location.
    ./
    ├── include
    │   └── here!
-   └── pfastwy
+   └── stat-BSA
       └── train
    ```
    
